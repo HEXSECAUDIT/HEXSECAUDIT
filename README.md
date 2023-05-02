@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About HEXSEC:
 The company specializes in cybersecurity and blockchain technology, offering a range of services including auditing of smart contracts, project development, web3 development, and utilizing NFT technology in marketing. With expertise in both fields, the company provides comprehensive solutions to businesses and organizations seeking to improve their security and leverage the benefits of blockchain technology. The auditing of smart contracts ensures that they are secure and operate as intended, while project development and web3 development services help clients to create and implement cutting-edge blockchain solutions. The company's use of NFT technology in marketing is a unique approach that allows clients to enhance their brand and create new revenue streams by leveraging the power of blockchain. Overall, the company's services are designed to help clients stay ahead of the curve in the fast-evolving worlds of cybersecurity and blockchain technology.
 
 
